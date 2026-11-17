@@ -1,7 +1,7 @@
 import requests
 from patient import create_patient_resource
 
-BASE_URL = "http://hapi.fhir.org/baseR4"
+BASE_URL = "https://hapi.fhir.org/baseR4"
 
 
 #Enviar el recurso FHIR al servidor HAPI FHIR
